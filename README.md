@@ -7,6 +7,8 @@ Constraints**
 Jay Bear, Adam Prügel-Bennett, and Jonathon Hare\
 *The University of Southampton*
 
+# THIS REPOSITORY IS CURRENTLY BEING UPDATED AND WILL SOON CONTAIN THE PROJECT CODE
+
 ## About
 
 This is a repository containing the experiment code for *Rethinking Deep
